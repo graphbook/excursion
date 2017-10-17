@@ -1,12 +1,14 @@
 html {
   font-family: Verdana;
   background-color: Black;
+  text-align: Center;
 }
 
 .top {
   font-size: 50px;
+  font-weight: Normal;
   color: White;
-  font-alignment: Centered;
+  text-align: Center;
 }
 
 .download {
