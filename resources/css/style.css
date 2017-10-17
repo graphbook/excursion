@@ -1,0 +1,15 @@
+html {
+  font-family: Verdana;
+  background-color: Black;
+}
+
+.top {
+  font-size: 50px;
+  color: White;
+  font-alignment: Centered;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
+}
